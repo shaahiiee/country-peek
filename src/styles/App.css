@@ -111,5 +111,6 @@
 
 /* Error state */
 .home__status--error {
-  color: red;
+  color: red;  
 }
+/* Responsive adjustments */
